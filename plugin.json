@@ -1,0 +1,18 @@
+{
+  "id": "acme.background",
+  "name": "Background",
+  "version": "2.1.4",
+  "api": 2,
+  "description": "Custom background, panel blur and transparency.",
+  "descriptions": {
+    "ru": "Свой фон рабочей области: цвет, градиент, картинка, размытие и прозрачность панелей.",
+    "en": "Custom background: color, gradient, image, panel blur and transparency."
+  },
+  "entry": "background.js",
+  "integrity": "sha384-4wP+bO+nQToJtkeaUAx2v0iQiVxynTTD/o60pkU+9p6UsK3l7PealqZIlKzxCVrA",
+  "caps": [
+    "ui",
+    "i18n",
+    "storage"
+  ]
+}
